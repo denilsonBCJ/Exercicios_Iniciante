@@ -53,6 +53,3 @@ Peça uma palavra e conte quantas vogais (a, e, i, o, u) ela tem.
 
 💡 *Dica:* percorra cada letra da palavra com `for` e verifique se é uma vogal.
 
-
-
-Quer que eu te monte uma **lista com 5 exercícios intermediários** pra depois que você terminar esses?
