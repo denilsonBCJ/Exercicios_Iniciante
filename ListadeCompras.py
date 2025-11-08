@@ -21,6 +21,11 @@ def remover():
         print(" Número inválido!\n")
     
 while True:
+    print('================================================================')
+    print('|                                                               |')
+    print('|                 📦 3. Lista de Compras                        |')
+    print('|                                                               |')
+    print('================================================================')
     print(" 1 - Adicionar itens a uma lista.")
     print(" 2 - listar todos items.")
     print(" 3 - Remover um item pelo nome.")

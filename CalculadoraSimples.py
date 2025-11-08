@@ -1,4 +1,9 @@
 while True:
+    print('================================================================')
+    print('|                                                               |')
+    print('|              💻 1. Calculadora Simples                       |')
+    print('|                                                               |')
+    print('================================================================')
     n1 = int(input("Digite o primeiro numero: "))
     n2 = int(input("Digite o segundo numero: "))
     opracao = input("Digite qual operação deseja fazer + - * / ou digite sair para fechar:")
