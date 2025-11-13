@@ -16,7 +16,7 @@ def cadastrar():  # L2
     print(f"Aluno {nome} cadastrado com média {media:.2f}.\n")  # L13
 
 def boletim():  # L14
-    if not usuarios:  # L15
+    if not usuarios:  # L15'''
         print("Nenhum aluno cadastrado.\n")  # L16
         return  # L17
     print("=== BOLETIM ===")  # L18
